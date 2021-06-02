@@ -30,7 +30,7 @@
     "license": "Apache-2.0",
     "dependencies": {
         "babylonjs": "4.1.0",
-        "babylonjs-gui": "4.1.0",
+        "babylonjs-gui": "4.2.0",
         "babylonjs-loaders": "4.1.0",
         "babylonjs-materials": "4.1.0",
         "babylonjs-serializers": "4.1.0",
